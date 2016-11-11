@@ -1,1 +1,1 @@
-![alt tag](https://raw.githubusercontent.com/bflysamurai/Zelda-Point-of-Sales-GUI-Application/main/zelda_pos_screenshot.png)
+![alt tag](https://raw.githubusercontent.com/BflySamurai/Zelda-Point-of-Sales-GUI-Application/blob/master/zelda_pos_screenshot.png)
